@@ -1,0 +1,48 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+.color1{
+    color: #639CBF;
+}
+
+.color2{
+    color: #639CBF;
+}
+
+.color3{
+    color: #162440;
+}
+
+.bg1{
+    background: #639CBF;
+}
+
+.bg2{
+    background: #639CBF;
+}
+
+.bg3{
+    background: #162440;
+}
+
+ul, li, ol{
+    list-style: none;
+}
+
+nav h1{
+    letter-spacing: 2px;
+}
+
+.bg-main{
+    height: 800px;
+    background-image:  url('../img//bg1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
